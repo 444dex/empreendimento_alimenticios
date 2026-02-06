@@ -1,27 +1,32 @@
-# Empreendimento Alimentícios
+# Sistema de Empreendimento Alimentício
 
-Projeto desenvolvido como **atividade de TI do terceiro ano do SENAC**, representando um sistema para um empreendimento de alimentos.  
-O código principal está escrito em **Python**, com banco de dados e arquivos auxiliares para lógica de negócio e estrutura de dados. :contentReference[oaicite:0]{index=0}
+Projeto acadêmico desenvolvido como **atividade de TI do 3º ano do SENAC**, com foco na simulação de um sistema de gestão para um empreendimento do setor alimentício.
 
----
-
-## Sobre
-
-Este repositório contém um projeto relacionado à operação de um empreendimento alimentício, provavelmente simulando um sistema simples de cadastro, gestão e/ou processos internos de um negócio de alimentos. :contentReference[oaicite:1]{index=1}
-
+O projeto foi desenvolvido em **Python**, com integração a banco de dados e organização modular, visando praticar lógica de programação, persistência de dados e estruturação de sistemas.
 
 ---
 
-## Tecnologias
+## Sobre o Projeto
 
-O projeto utiliza as seguintes tecnologias:
+Este sistema representa um **empreendimento alimentício fictício**, simulando operações comuns do dia a dia de um negócio do setor gastronômico, como organização de dados, fluxo operacional e interação com banco de dados.
 
-- **Python** — linguagem principal do código fonte. :contentReference[oaicite:2]{index=2}
-- **SQL** — script de banco de dados para estruturar as tabelas do empreendimento. :contentReference[oaicite:3]{index=3}
+O objetivo principal é aplicar conceitos de:
+- Programação estruturada e modular
+- Manipulação de banco de dados
+- Organização de código
+- Desenvolvimento de sistemas simples de gestão
 
 ---
 
-## Estrutura do Repositório
+## Tecnologias Utilizadas
+
+- **Linguagem:** Python  
+- **Banco de Dados:** SQL  
+- **Ambiente:** Execução local (CLI)
+
+---
+
+## Estrutura do Projeto
 
 ```text
 empreendimento_alimenticios/
